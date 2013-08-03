@@ -3,7 +3,7 @@ LICENSE
 =======
 
 Source code is under the terms of the MIT license and documentation under the
-terms of the creative commons license.
+terms of the Creative Commons license.
 
 
 The MIT License
