@@ -1,5 +1,5 @@
 
-I²Ci Bus Interface
-==================
+I²C Bus Interface
+=================
 
 .
